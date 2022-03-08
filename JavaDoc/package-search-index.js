@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ir.ac.kntu"},{"l":"ir.ac.kntu.Coder"},{"l":"ir.ac.kntu.Global"},{"l":"ir.ac.kntu.LatexReq"},{"l":"ir.ac.kntu.UI"}]
