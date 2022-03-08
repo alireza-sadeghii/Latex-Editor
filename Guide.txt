@@ -1,0 +1,64 @@
+
+╭━━━┳╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━━━╮╱╱╱╱╭╮╱╱╱╱╱╭╮╱╱╱
+┃╭━╮┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃╭━╮┃╱╱╱╱┃┃╱╱╱╱╱┃┃╱╱╱╱╱╱
+┃┃╱┃┃┃╭┳━┳━━┳━━━┳━━╮┃╰━━┳━━┳━╯┣━━┳━━┫╰━┳╮╱╱╱╱╱
+┃╰━╯┃┃┣┫╭┫┃━╋━━┃┃╭╮┃╰━━╮┃╭╮┃╭╮┃┃━┫╭╮┃╭╮┣┫╱╱╱╱╱╱
+┃╭━╮┃╰┫┃┃┃┃━┫┃━━┫╭╮┃┃╰━╯┃╭╮┃╰╯┃┃━┫╰╯┃┃┃┃┃╱╱╱╱╱╱
+╰╯╱╰┻━┻┻╯╰━━┻━━━┻╯╰╯╰━━━┻╯╰┻━━┻━━┻━╮┣╯╰┻╯╱╱╱╱
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃╱╱╱╱╱╱╱╱╱
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯╱╱╱
+
+Hello.
+I am Alireza, a novice programmer.
+I'm so glad you're seeing this file now.
+And I would be very grateful if you could guide and help me with your comments and suggestions.
+I hope this program has been able to help you, however small.
+
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+E-mail : Areza_Sadeghi@yahoo.com
+GitHub : https://github.com/alireza-sadeghii
+LinkedIn : https://www.linkedin.com/in/alireza-a-051467201
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+FOR RUN THE APP :
+
+   >> Windows : Run the run.bat file
+   
+   >> Linux : Run the tun.sh file
+
+================================= 🅄🅂🄰🄶🄴 🄶🅄🄸🄳🄴 ======================================
+On the first page you can select the title and class of the document you want, then write
+your name as the author and select the date you want.
+After all these actions, click on the submit button.
+===========================================================================================
+On the second page you can write sections for the document.
+First write the title of your section in the first field and then write the paragraph of
+this section and then click the Add button at the top of the title section. After pressing 
+the button, your section will be saved and the fields will be cleared.
+
+ ** THERE IS NO PROBLEM IF YOU MISSPELLED THE WORDS BECAUSE YOU CAN CHANGE THEM LATER FROM THE .TEX FILE**
+            ** YOU CAN ONLY USE THE "\\" CHARACTER TO INSERT A NEW LINE IN A SECTION **
+
+============================= 🄿🄰🄲🄺🄰🄶🄴 🄰🄳🄳🄸🄽🄶 =====================================
+To add a package, on the second page you can do this from the menu bar at the top of the
+page with the package name.
+===========================================================================================
+============================= 🄿🄰🄲🄺🄰🄶🄴 🅁🄴🄼🄾🅅🄴 =======================================
+To delete a package, on the second page you can do this from the menu bar at the top of the
+page with the package name.
+=============================================================================================
+
+After writing all your sections, click on the BiblioGraphy item at the top of the page in
+the menu bar.
+
+=============================== 🄱🄸🄱🄻🄸🄾🄶🅁🄰🄿🄷🅈 ========================================
+To add a bibliography to your document, write your reference in the blank field and then
+click the Add button.
+                           ** This is an optional field **
+
+=============================================================================================
+After adding all your references, click on the finish item in the menu bar.
+Then , you can find the pdf of your document in the Output-Document directory in the main
+project file.
+You can also find your .tex file in the project file.
+Good Luck ;)
