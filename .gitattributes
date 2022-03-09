@@ -1,2 +1,2 @@
 src/* linguist-documentation=false
-JavaDoc/*.html linguist-detectable=false
+JavaDoc/**/*.html linguist-detectable=false
