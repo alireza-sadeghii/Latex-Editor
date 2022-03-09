@@ -38,3 +38,7 @@ Please read the Guide.txt or User_Guide.pdf file before using the program
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## 🌐Socials
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alireza-sadeghii)
+
